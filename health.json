@@ -3,8 +3,8 @@
   "checks": [
     {
       "name": "Application",
-      "status": "Healthy",
-      "exception": null,
+      "status": "Unhealthy",
+      "exception": "this is whats happend or not being",
       "duration": "00:00:00.0000107"
     },
     {
